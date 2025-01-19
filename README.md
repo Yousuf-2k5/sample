@@ -1,0 +1,2 @@
+# sample
+Checking git out
